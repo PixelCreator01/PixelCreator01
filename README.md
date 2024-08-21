@@ -25,16 +25,15 @@
 <details>
   <summary>👨‍💻Mais sobre mim </summary>
 
-  - 💬 Tenho 19 anos e atualmente vivo no interior de São Paulo Artur Nogueira. Falo o básico de inglês e estou adquirindo expêriencia com HTM5 , CSS3 e Javascript. Também sempre busco aprender cada vez mais, oq me ajuda a aprender e colocar em prática e assim me desenvolvendo como um desenvolvedor web onde dar vida ao site se tornou um hobby
+  - 💬 Tenho 18 anos e atualmente vivo no interior de São Paulo Artur Nogueira. Falo o básico de inglês e estou adquirindo expêriencia com HTM5 , CSS3 e Javascript. Também sempre busco aprender cada vez mais, oq me ajuda a aprender e colocar em prática e assim me desenvolvendo como um desenvolvedor web onde dar vida ao site se tornou um hobby
 
-  - ⚡ Gosto de pesquisar muito na internet e ler, muitas vezes tirar minhas dúvidas, além de assistir filmes e ver séries e jogar! Com tudo isso acredito que nossos interesses pessoas possam contribuir para a percepção mais aguçada das coisas e resolver e criar soluções para os problemas. \o/
+  - ⚡ Gosto de pesquisar muito na internet e ler, muitas vezes tirar minhas dúvidas, além de assistir filmes e ver séries e jogar! Com tudo isso acredito que nossos interesses pessoais possam contribuir para a percepção mais aguçada das coisas e resolver e criar soluções para os problemas. \o/
 </details>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renansia150/?next=%2F)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/renan-sia-orlandini-3489a4304/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-sia-orlandini-3489a4304/)
-
-
 
 
 <!-- GithubStats -->
