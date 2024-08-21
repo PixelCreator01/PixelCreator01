@@ -38,7 +38,7 @@
 
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrns&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrns&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elrns&theme=dark&show_icons=true)](https://github.com/Elrns/github-readme-stats)
 
 
 
