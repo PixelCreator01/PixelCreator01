@@ -15,7 +15,7 @@
 <p>
   Olá 👋, Sou o Carlos e sou louco por tecnologia e desenvolvimento web!
 
-  - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistema pela UNIP Universidade Paulista de SP
+  - 🌱 A
 
   - 🔭 Estou procurando uma oportunidade para meu primeiro emprego nessa área.
  Meu sonho é se tornar um desenvolverdor Full stack, e poder trabalhar com diversas plataformas
@@ -27,7 +27,7 @@
 
   - 💬 Tenho 19 anos e atualmente vivo no interior de São Paulo Artur Nogueira. Falo o básico de inglês e estou adquirindo expêriencia com HTM5 , CSS3 e Javascript. Também sempre busco aprender cada vez mais, oq me ajuda a aprender e colocar em prática e assim me desenvolvendo como um desenvolvedor web onde dar vida ao site se tornou um hobby
 
-  - ⚡ Gosto de pesquisar muito na internet e ler, muitas vezes tirar minhas dúvidas, além de assistir filmes e ver séries e jogar! Com tudo isso acredito que nossos interesses pessoas possam contribuir para a percepção mais aguçada das coisas e resolver e criar soluções para os problemas \o/
+  - ⚡ Gosto de pesquisar muito na internet e ler, muitas vezes tirar minhas dúvidas, além de assistir filmes e ver séries e jogar! Com tudo isso acredito que nossos interesses pessoas possam contribuir para a percepção mais aguçada das coisas e resolver e criar soluções para os problemas. \o/
 </details>
 
 <!-- Links -->
