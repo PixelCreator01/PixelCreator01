@@ -1,43 +1,71 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+# renan-sia-orlandini
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixelCreator01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mPixelCreator01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Renan!;" />
+</summary>
+   
 </div>
 
-###
+<!-- Presentation -->
+<p>
+  Olá 👋, Sou o Renan e sou louco por tecnologia e desenvolvimento web!
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/32/fa/4f/32fa4fbb78e62a27768a3825ff03417d.gif"  />
+  - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistema pela UNIP Universidade Paulista de SP
 
-###
+  - 🔭 Estou procurando uma oportunidade para meu primeiro emprego nessa área.
+ Meu sonho é se tornar um desenvolverdor Full stack, e poder trabalhar com diversas plataformas
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻Mais sobre mim </summary>
 
-###
+  - 💬 Tenho 20 anos e atualmente vivo no interior de São Paulo Artur Nogueira. Falo o básico de inglês e estou adquirindo expêriencia com HTM5 , CSS3 e Javascript. Também sempre busco aprender cada vez mais, oq me ajuda a aprender e colocar em prática e assim me desenvolvendo como um desenvolvedor web onde dar vida ao site se tornou um hobby
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+  - ⚡ Gosto de pesquisar muito na internet e ler, muitas vezes tirar minhas dúvidas, além de assistir filmes e ver séries e jogar! Com tudo isso acredito que nossos interesses pessoas possam contribuir para a percepção mais aguçada das coisas e resolver e criar soluções para os problemas \o/
+</details>
 
-###
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renansia150/?next=%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-sia-orlandini-3489a4304/)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/pixelcreator01/pixelcreator01/output/snake.svg" alt="Snake animation" />
 
-###
+
+<!-- GithubStats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrns&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elrns&theme=dark&show_icons=true)](https://github.com/Elrns/github-readme-stats)
+
+
+<!-- Portfolio -->
+## Portfolio:
+- [Interface-mobile](https://github.com/Elrns/interface-mobile)
+- [Fone-Ecommerce](https://github.com/Elrns/fone-ecommerce)
+
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://i.pinimg.com/originals/2a/4a/5b/2a4a5bfa4602f9a38d4bd652a2c7f9dd.gif" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </div>
+  
