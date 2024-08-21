@@ -44,7 +44,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://64.media.tumblr.com/f9aee42272fcd6c873eed038d4720b45/tumblr_inline_pk1evhd2hs1s9dce9_500.gif" alt="Imagem">
+  <img align="center" src="https://i.pinimg.com/originals/ca/e1/1d/cae11df222ff8639d02aa7b81d1d296a.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
