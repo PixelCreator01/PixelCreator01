@@ -44,7 +44,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1670238478896454651/3C2938ADD2CA71A2C8039A8D6139A8C850AD01A2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
+  <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/949599512600537346/10AF91C3120D444569F4F7DA3BDA9E2630831D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
 </p>
 
 ## 🔥 Skills
