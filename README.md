@@ -44,7 +44,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/949599512600537346/10AF91C3120D444569F4F7DA3BDA9E2630831D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
+  <img align="center" src="https://uploads.spiritfanfiction.com/historias/capas/201612/olhos-vermelhos-7529551-301220162205.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
