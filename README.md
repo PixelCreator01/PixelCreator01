@@ -6,14 +6,14 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Renan!;" />
+    <summary> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Carlos!;" />
 </summary>
    
 </div>
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Sou o Renan e sou louco por tecnologia e desenvolvimento web!
+  Olá 👋, Sou o Carlos e sou louco por tecnologia e desenvolvimento web!
 
   - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistema pela UNIP Universidade Paulista de SP
 
