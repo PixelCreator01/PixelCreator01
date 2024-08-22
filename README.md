@@ -24,7 +24,7 @@
 <details>
   <summary>👨‍💻Mais sobre mim </summary>
 
-  - 💬 T
+  - 💬 
 
   - ⚡ Gosto de pesquisar muito na internet e ler, muitas vezes tirar minhas dúvidas, além de assistir filmes e ver séries e jogar! Com tudo isso acredito que nossos interesses pessoais possam contribuir para a percepção mais aguçada das coisas e resolver e criar soluções para os problemas. \o/
 </details>
