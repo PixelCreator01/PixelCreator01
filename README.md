@@ -15,7 +15,7 @@
 <p>
   Olá 👋, Sou o Carlos e sou louco por tecnologia e desenvolvimento web!
 
-  - 🌱 A
+  - 🌱 
 
   - 🔭 
 </p>
