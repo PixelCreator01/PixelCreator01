@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e39e7888-b0d2-4586-a682-d22bd844cf92)
+
 # carlos-henrique
 
 ###
