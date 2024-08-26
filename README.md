@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/e39e7888-b0d2-4586-a682-d22bd844cf92)
 # carlos-henrique
 
 ###
@@ -42,7 +42,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2bdb7ec7-2b17-461f-ba6a-f28496ea67f7/dfwwemg-5f189caa-ac02-4c09-866b-07ab0cdcfe53.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJiZGI3ZWM3LTJiMTctNDYxZi1iYTZhLWYyODQ5NmVhNjdmN1wvZGZ3d2VtZy01ZjE4OWNhYS1hYzAyLTRjMDktODY2Yi0wN2FiMGNkY2ZlNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KYQeMRtDZcldFArXUxJ2JvRiKKCmnX5doX7FyKmj7Z8" alt="Imagem">
+  <img align="center" src="![image](https://github.com/user-attachments/assets/90a8e0fd-10be-4e3e-856d-b70100da0bce)
+" alt="Imagem">
 </p>
 
 ## 🔥 Skills
