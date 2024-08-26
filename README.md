@@ -42,7 +42,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif" alt="Imagem">
+  <img align="center" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/batman-rain-gif-cover-desktop-wallpaper.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
