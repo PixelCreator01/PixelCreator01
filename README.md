@@ -42,8 +42,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="![image](https://github.com/user-attachments/assets/90a8e0fd-10be-4e3e-856d-b70100da0bce)
-" alt="Imagem">
+  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
