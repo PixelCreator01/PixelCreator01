@@ -42,7 +42,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" alt="Imagem">
+  <img align="center" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1263.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
